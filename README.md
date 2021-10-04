@@ -71,8 +71,8 @@ scrap/
 
 In the code block above, you can see the folder structure that the startproject command created for you:
 
-finmarka/ :- is your top-level project folder.
-finmarka/finmarka/ :- is your lower-level folder that represents your management app.
+scrap/ :- is your top-level project folder.
+scrap/scrap/ :- is your lower-level folder that represents your management app.
 manage.py :- is a Python file that serves as the command center of your project. It does the same as the django-admin command-line utility.
 
 Run below command to start django server:
